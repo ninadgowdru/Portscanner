@@ -91,7 +91,7 @@ Use this tool responsibly. Only scan systems you have explicit permission to aud
 
 ## Author
 
-Developed by \[Your Name] - Inspired by real-world network security tools.
+Developed by \[NINAD GOWDA] - Inspired by real-world network security tools.
 
 ---
 
